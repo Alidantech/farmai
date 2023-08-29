@@ -1,0 +1,184 @@
+Plant,Category,Climate Conditions,Temperature Range (°C),Light Intensity (hours/day),Relative Humidity (%),Annual Precipitation (mm),Wind Conditions,Soil Moisture,Soil Nutrients,Atmospheric Gases,Altitude (m),Topography,Frost,Heat Stress,Cold Stress,Day Length (hours),Air Quality,Other
+Apple (Malus domestica),Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1000,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Asian pear,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Loquat (Japanese medlar),Fruit Trees,Subtropical,10-30,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Common medlar,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Pear,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1500,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Quince,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Citron,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Grapefruit,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Lemon,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Lime,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Orange,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Pomelo,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Almond,Fruit Trees,Temperate,5-25,6-12,60-80,300-800,Moderate,Moist,Well-balanced,Normal,0-1000,Flat,No,Occasional,Cold-sensitive,12-16,Good,None
+Cashew,Fruit Trees,Tropical,25-35,8-12,70-90,1000-2500,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Chestnut,Fruit Trees,Temperate,5-25,6-12,60-80,400-1000,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Hazelnut,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Macadamia,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Pecan (Carya illinoinensis),Fruit Trees,Temperate,5-30,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Pistachio,Fruit Trees,Arid,15-35,6-10,40-70,100-500,Strong,Dry,Well-balanced,Normal,Null,Null,Null,Heat-tolerant,Cold-sensitive,12-16,Good,None
+Walnut,Fruit Trees,Temperate,5-25,6-12,60-80,600-1400,Moderate,Moist,Well-balanced,Normal,Null,Null,Null,Null,Null,Null,Null,Null
+Açaí palm (Euterpe oleracea),Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+American-oil palm,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Apricot,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1500,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Babacu,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Banana (Musa spp.),Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Breadfruit,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Calabash,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cherry,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1500,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Cocopalm,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Durian (Durio spp.),Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Ensete,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Fig,Fruit Trees,Mediterranean,10-30,8-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-1000,Flat,No,Occasional,Heat-tolerant,12-16,Good,None
+Ice-cream bean,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Jackfruit,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Mango,Fruit Trees,Tropical,25-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Panama-hat palm,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Papaya (Carica papaya),Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Passionfruit,Fruit Trees,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Peach and Nectarine,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1500,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Peach palm (Bactris gasipaes),Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Plum,Fruit Trees,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-1500,Flat,No,Occasional,Chilling-sensitive,12-16,Good,None
+Sapodilla,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Tucuma,Fruit Trees,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-500,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Barley,Cereals,Temperate,0-25,8-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,10-14,Good,None
+Finger millet,Cereals,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Fonio,Cereals,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Foxtail millet,Cereals,Temperate,5-30,8-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,10-14,Good,None
+Little barley (Hordeum pusillum - central US pre-Columbian),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Maize (called corn in the U.S.),Cereals,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Maygrass (Phalaris caroliniana - central US pre-Columbian),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Pearl millet,Cereals,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Proso millet,Cereals,Temperate,5-30,8-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,10-14,Good,None
+Oats,Cereals,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Rice,Cereals,Tropical,20-35,8-12,70-90,1000-3000,Strong,Submerged,Fertilized,Normal,0-3000,Lowlands,No,No,Cold-sensitive,10-14,Good,Flood-tolerant
+Rye,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Sorghum,Cereals,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Spelt,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Teff (also tef),Cereals,Tropical,20-35,8-12,70-90,1000-3000,Strong,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Triticale (Secalotriticum spp.) – a hybrid between wheat and rye,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Wheat,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Bread wheat (Triticum aestivum),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Pasta or Durum wheat (Triticum durum),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Einkorn wheat (Triticum monococcum),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Amaranth,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Buckwheat,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Job's tears,Cereals,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Knotweed bristlegrass (erect knotweed - New World),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Pitseed goosefoot (Chenopodium berlandieri - central US pre-Columbian),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Quinoa,Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Sunflower (Helianthus annuus),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Marshelder (sumpweed - Iva annua - central US pre-Columbian),Cereals,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Beans – eaten dry as pulses or fresh as vegetables,Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Azuki bean (Vigna angularis),Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Black-eyed pea (Vigna unguiculata),Legumes,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Chickpea (Cicer arietinum),Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Common bean (Phaseolus spp - including pinto bean - kidney bean - runner bean - Lima bean  and others),Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Lentil (Lens culinaris),Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Velvet bean (Mucuna pruriens),Legumes,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Moth bean -(Vigna aconitifolia),Legumes,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Mung bean (Vigna radiata),Legumes,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Pea (Pisum sativum),Legumes,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Peanut (Arachis hypogaea) – botanically a legume - but often referred to as a culinary nut,Legumes,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Jicama (Pachyrhizus erosus) – the most valuable edible part of the plant is the tuberous root rather than the bean,Legumes,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Aggregated drupelet "berries",Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Raspberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Blackberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+True berries,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Blueberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Cranberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Huckleberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Other,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Currant,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Grape,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Melon (several species),Sweet Small-Plant Fruits,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Pineapple,Sweet Small-Plant Fruits,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Strawberry,Sweet Small-Plant Fruits,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Avocado,Sweet Small-Plant Fruits,Tropical,25-35,8-12,70-90,1500-3000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Non-sweet small-plant fruits,Vegetables,Temperate,5-25,6-12,60-80,500-1500,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Eggplant (aubergine),Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Okra,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Peppers,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Squash (e.g. Cucurbita pepo multiple varieties),Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Winter squash,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Pumpkin,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Summer squash,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Zucchini,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Gourds,Vegetables,Tropical,25-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Tomato,Vegetables,Temperate,5-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Non-starchy,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Beet,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Carrot,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Parsnip,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Radish,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Turnip,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Starchy,Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cassava (manioc - yuca) (requires special processing to be edible),Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Potato,Root Vegetables,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Sweet potato,Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Taro (requires special processing to be edible),Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Yam,Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Ube,Root Vegetables,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Allspice,Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Basil,Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cinnamon,Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Coriander (also called cilantro),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Cumin (Cuminum cyminum),Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Jasmine (Jasminum spp.),Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Lemongrass (Cymbopogon spp.),Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Nutmeg (Myristica fragrans),Herbs and Spices,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Oregano (Origanum vulgare),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Parsley (Petroselinum crispum),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Peppermint,Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Rosemary (Salvia rosmarinus),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Saffron (Crocus sativus),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Spearmint,Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Thyme (Thymus vulgaris),Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Wintergreen,Herbs and Spices,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Olive (also eaten directly in many parts of the world),Oil-producing Plants,Mediterranean,10-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-2000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Peanut (also eaten directly in the United States),Oil-producing Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Soybean (also a major livestock feed and export crop and sometimes eaten directly as a snack food),Oil-producing Plants,Temperate,0-30,8-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Alfalfa,Commodities,Temperate,0-35,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Clover,Commodities,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Many grasses are grown for hay and silage,Commodities,Temperate,0-35,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Canola (rapeseed),Oil-producing Plants,Temperate,0-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Olive,Oil-producing Plants,Mediterranean,10-25,6-12,40-70,300-800,Moderate,Moist,Well-balanced,Normal,0-2000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Bottle gourd (used for containers),Utility Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Belladonna,Psychoactive Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Cannabis (Cannabis spp.),Psychoactive Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Chocolate (Theobroma cacao),Psychoactive Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Coffee (Coffea arabica),Psychoactive Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cola,Psychoactive Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Opium poppy (Papaver somniferum),Psychoactive Plants,Temperate,0-30,6-12,40-100,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Quinine,Psychoactive Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Tea (Camellia sinensis),Psychoactive Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Tobacco,Psychoactive Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cannabis (hemp),Fiber Plants,Temperate,0-30,6-12,40-100,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Cotton,Fiber Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Flax,Fiber Plants,Temperate,0-30,6-12,40-100,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Henequen (sisal - henequin - etc.),Fiber Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Jute,Fiber Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Kenaf,Fiber Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Manila hemp,Fiber Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Aloe vera,Medicinal Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Cannabis,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Chamomile,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Coca,Medicinal Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Daisy,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Ginkgo,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Ginseng,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Hoodia,Medicinal Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Jasmine,Medicinal Plants,Tropical,20-30,8-12,70-150,800-3000,High,Moist,Well-balanced,Normal,0-2000,Slopes,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Lavender,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Lemon balm,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Lotus,Medicinal Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Marigold,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Milk thistle,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Moringa,Medicinal Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Opium Poppy,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Peppermint,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Rosemary,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+Sage,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None
+San pedro cactus,Medicinal Plants,Tropical,20-35,8-12,70-90,800-2000,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Heat-tolerant,Chilling-sensitive,10-14,Good,None
+Tea tree,Medicinal Plants,Temperate,0-30,6-12,40-80,400-1200,Moderate,Moist,Well-balanced,Normal,0-3000,Flat,No,Occasional,Cold-tolerant,12-16,Good,None

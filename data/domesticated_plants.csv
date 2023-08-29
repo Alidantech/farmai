@@ -1,0 +1,186 @@
+Plant,Category,Subcategory
+Apple (Malus domestica),Fruit Trees
+Asian pear,Fruit Trees
+Loquat (Japanese medlar),Fruit Trees
+Common medlar,Fruit Trees
+Pear,Fruit Trees
+Quince,Fruit Trees
+Citron,Fruit Trees
+Grapefruit,Fruit Trees
+Lemon,Fruit Trees
+Lime,Fruit Trees
+Orange,Fruit Trees
+Pomelo,Fruit Trees
+Almond,Fruit Trees
+Cashew,Fruit Trees
+Chestnut,Fruit Trees
+Hazelnut,Fruit Trees
+Macadamia,Fruit Trees
+Pecan (Carya illinoinensis),Fruit Trees
+Pistachio,Fruit Trees
+Walnut,Fruit Trees
+Açaí palm (Euterpe oleracea),Fruit Trees
+American-oil palm,Fruit Trees
+Apricot,Fruit Trees
+Babacu,Fruit Trees
+Banana (Musa spp.),Fruit Trees
+Breadfruit,Fruit Trees
+Calabash,Fruit Trees
+Cherry,Fruit Trees
+Cocopalm,Fruit Trees
+Durian (Durio spp.),Fruit Trees
+Ensete,Fruit Trees
+Fig,Fruit Trees
+Ice-cream bean,Fruit Trees
+Jackfruit,Fruit Trees
+Mango,Fruit Trees
+Panama-hat palm,Fruit Trees
+Papaya (Carica papaya),Fruit Trees
+Passionfruit,Fruit Trees
+Peach and Nectarine,Fruit Trees
+Peach palm (Bactris gasipaes),Fruit Trees
+Plum,Fruit Trees
+Sapodilla,Fruit Trees
+Tucuma,Fruit Trees
+Barley,Cereals
+Finger millet,Cereals
+Fonio,Cereals
+Foxtail millet,Cereals
+Little barley (Hordeum pusillum, central US pre-Columbian),Cereals
+Maize (called corn in the U.S.),Cereals
+Maygrass (Phalaris caroliniana, central US pre-Columbian),Cereals
+Pearl millet,Cereals
+Proso millet,Cereals
+Oats,Cereals
+Rice,Cereals
+Rye,Cereals
+Sorghum,Cereals
+Spelt,Cereals
+Teff (also tef),Cereals
+Triticale (Secalotriticum spp.) – a hybrid between wheat and rye,Cereals
+Wheat,Cereals
+Bread wheat (Triticum aestivum),Cereals
+Pasta or Durum wheat (Triticum durum),Cereals
+Einkorn wheat (Triticum monococcum),Cereals
+Amaranth,Cereals
+Buckwheat,Cereals
+Job's tears,Cereals
+Knotweed bristlegrass (erect knotweed, New World),Cereals
+Pitseed goosefoot (Chenopodium berlandieri, central US pre-Columbian),Cereals
+Quinoa,Cereals
+Sunflower (Helianthus annuus),Cereals
+Marshelder (sumpweed, Iva annua, central US pre-Columbian),Cereals
+Beans – eaten dry as pulses or fresh as vegetables,Legumes
+Azuki bean (Vigna angularis),Legumes
+Black-eyed pea (Vigna unguiculata),Legumes
+Chickpea (Cicer arietinum),Legumes
+Common bean (Phaseolus spp., including pinto bean, kidney bean, runner bean, Lima bean, and others),Legumes
+Lentil (Lens culinaris),Legumes
+Velvet bean (Mucuna pruriens),Legumes
+Moth bean -(Vigna aconitifolia),Legumes
+Mung bean (Vigna radiata),Legumes
+Pea (Pisum sativum),Legumes
+Peanut (Arachis hypogaea) – botanically a legume, but often referred to as a culinary nut,Legumes
+Jicama (Pachyrhizus erosus) – the most valuable edible part of the plant is the tuberous root rather than the bean,Legumes
+Aggregated drupelet "berries",Sweet Small-Plant Fruits
+Raspberry,Sweet Small-Plant Fruits
+Blackberry,Sweet Small-Plant Fruits
+True berries,Sweet Small-Plant Fruits
+Blueberry,Sweet Small-Plant Fruits
+Cranberry,Sweet Small-Plant Fruits
+Huckleberry,Sweet Small-Plant Fruits
+Other,Sweet Small-Plant Fruits
+Currant,Sweet Small-Plant Fruits
+Grape,Sweet Small-Plant Fruits
+Melon (several species),Sweet Small-Plant Fruits
+Pineapple,Sweet Small-Plant Fruits
+Strawberry,Sweet Small-Plant Fruits
+Avocado,Sweet Small-Plant Fruits
+Non-sweet small-plant fruits,Vegetables
+Eggplant (aubergine),Vegetables
+Okra,Vegetables
+Peppers,Vegetables
+Squash (e.g., Cucurbita pepo, multiple varieties),Vegetables
+Winter squash,Vegetables
+Pumpkin,Vegetables
+Summer squash,Vegetables
+Zucchini,Vegetables
+Gourds,Vegetables
+Tomato,Vegetables
+Non-starchy,Root Vegetables
+Beet,Root Vegetables
+Carrot,Root Vegetables
+Parsnip,Root Vegetables
+Radish,Root Vegetables
+Turnip,Root Vegetables
+Starchy,Root Vegetables
+Cassava (manioc, yuca) (requires special processing to be edible),Root Vegetables
+Potato,Root Vegetables
+Sweet potato,Root Vegetables
+Taro (requires special processing to be edible),Root Vegetables
+Yam,Root Vegetables
+Ube,Root Vegetables
+Allspice,Herbs and Spices
+Basil,Herbs and Spices
+Cinnamon,Herbs and Spices
+Coriander (also called cilantro),Herbs and Spices
+Cumin (Cuminum cyminum),Herbs and Spices
+Jasmine (Jasminum spp.),Herbs and Spices
+Lemongrass (Cymbopogon spp.),Herbs and Spices
+Nutmeg (Myristica fragrans),Herbs and Spices
+Oregano (Origanum vulgare),Herbs and Spices
+Parsley (Petroselinum crispum),Herbs and Spices
+Peppermint,Herbs and Spices
+Rosemary (Salvia rosmarinus),Herbs and Spices
+Saffron (Crocus sativus),Herbs and Spices
+Spearmint,Herbs and Spices
+Thyme (Thymus vulgaris),Herbs and Spices
+Wintergreen,Herbs and Spices
+Olive (also eaten directly in many parts of the world),Oil-producing Plants
+Peanut (also eaten directly in the United States),Oil-producing Plants
+Soybean (also a major livestock feed and export crop, and sometimes eaten directly as a snack food),Oil-producing Plants
+Alfalfa,Commodities
+Clover,Commodities
+Many grasses are grown for hay and silage,Commodities
+Canola (rapeseed),Oil-producing Plants
+Olive,Oil-producing Plants
+Bottle gourd (used for containers),Utility Plants
+Belladonna,Psychoactive Plants
+Cannabis (Cannabis spp.),Psychoactive Plants
+Chocolate (Theobroma cacao),Psychoactive Plants
+Coffee (Coffea arabica),Psychoactive Plants
+Cola,Psychoactive Plants
+Opium poppy (Papaver somniferum),Psychoactive Plants
+Quinine,Psychoactive Plants
+Tea (Camellia sinensis),Psychoactive Plants
+Tobacco,Psychoactive Plants
+Cannabis (hemp),Fiber Plants
+Cotton,Fiber Plants
+Flax,Fiber Plants
+Henequen (sisal, henequin, etc.),Fiber Plants
+Jute,Fiber Plants
+Kenaf,Fiber Plants
+Manila hemp,Fiber Plants
+Aloe vera,Medicinal Plants
+Cannabis,Medicinal Plants
+Chamomile,Medicinal Plants
+Coca,Medicinal Plants
+Daisy,Medicinal Plants
+Ginkgo,Medicinal Plants
+Ginseng,Medicinal Plants
+Hoodia,Medicinal Plants
+Jasmine,Medicinal Plants
+Lavender,Medicinal Plants
+Lemon balm,Medicinal Plants
+Lotus,Medicinal Plants
+Marigold,Medicinal Plants
+Milk thistle,Medicinal Plants
+Moringa,Medicinal Plants
+Opium Poppy,Medicinal Plants
+Peppermint,Medicinal Plants
+Rosemary,Medicinal Plants
+Sage,Medicinal Plants
+San pedro cactus,Medicinal Plants
+Tea tree,Medicinal Plants
+Houseplants,Ornamental Plants
+Landscaping (see List of garden plants),Ornamental Plants

@@ -1,1 +1,41 @@
-Temperature, Average temperature, Temperature range, Diurnal temperature variation, Precipitation, Total precipitation, Rainfall distribution, Humidity, Relative humidity,Wind, Wind speed, Wind direction, Sunlight and Solar Radiation, Sunshine duration, Solar radiation, Altitude and Elevation, Altitude, Geographical Features, Mountain ranges, Topography, Latitude, Ocean Currents, Atmospheric Pressure, Climate Oscillations, Seasonality, Cloud Cover, Aerosols and Pollutants,
+Country,Region,County,Climate Conditions,Temperature Range (°C),Light Intensity (hours/day),Relative Humidity (%),Annual Precipitation (mm),Wind Conditions,Soil Moisture,Soil Nutrients,Atmospheric Gases,Altitude (m),Topography,Frost,Heat Stress,Cold Stress,Day Length (hours),Air Quality,Other
+Kenya,Nairobi,Nairobi Central,Temperate,10 - 25,5 - 7,60 - 80,800 - 1000,Mild to Moderate,Medium,Moderate,Typical urban levels,1795,Mostly flat with some hills,Rare,Mild,Mild,10 - 13,Moderate,Influenced by urbanization
+Kenya,Nairobi,Kasarani,Temperate,10 - 25,5 - 7,60 - 80,800 - 1000,Mild to Moderate,Medium,Moderate,Typical urban levels,1795,Mostly flat with some hills,Rare,Mild,Mild,10 - 13,Moderate,Urban residential area
+Kenya,Nairobi,Lang'ata,Temperate,10 - 25,5 - 7,60 - 80,800 - 1000,Mild to Moderate,Medium,Moderate,Typical urban levels,1795,Mostly flat with some hills,Rare,Mild,Mild,10 - 13,Moderate,Close to national park
+Kenya,Nairobi,Dagoretti,Temperate,10 - 25,5 - 7,60 - 80,800 - 1000,Mild to Moderate,Medium,Moderate,Typical urban levels,1795,Mostly flat with some hills,Rare,Mild,Mild,10 - 13,Moderate,Urban residential area
+Kenya,Coast,Mombasa,Tropical,25 - 35,6 - 8,70 - 90,1000 - 1200,Moderate,High,High,Marine influence,Sea level,Flat,Rare,High,Mild,11 - 13,Moderate,High humidity
+Kenya,Coast,Kilifi,Tropical,25 - 35,6 - 8,70 - 90,800 - 1000,Moderate,High,High,Marine influence,Sea level,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Beach tourism
+Kenya,Coast,Lamu,Tropical,25 - 35,6 - 8,70 - 90,900 - 1200,Moderate,High,High,Marine influence,Sea level,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Historic town
+Kenya,Coast,Kwale,Tropical,25 - 35,6 - 8,70 - 90,800 - 1000,Moderate,High,High,Marine influence,Sea level,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Coastal culture
+Kenya,Nyanza,Kisumu,Tropical,20 - 30,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1130,Mixed urban and rural,Rare,Mild,Mild,11 - 13,Moderate,Lake influence
+Kenya,Nyanza,Homa Bay,Tropical,20 - 30,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1191,Mixed urban and rural,Rare,Mild,Mild,11 - 13,Moderate,Lake influence
+Kenya,Nyanza,Migori,Tropical,20 - 30,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1310,Mixed urban and rural,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Nyanza,Kisii,Subtropical Highland,12 - 23,5 - 7,60 - 80,1200 - 1600,Variable,Medium,High,Varied,1700,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Western,Kakamega,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1496,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Western,Vihiga,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1510,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Western,Bungoma,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1300,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Western,Busia,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1200,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Eastern,Embu,Subtropical,18 - 28,5 - 7,50 - 70,600 - 800,Moderate,Low,Medium,Varied,1410,Hilly terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,Eastern,Meru,Subtropical Highland,10 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1650,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Eastern,Machakos,Subtropical,18 - 28,5 - 7,50 - 70,600 - 800,Moderate,Low,Medium,Varied,1631,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Farming region
+Kenya,Eastern,Tharaka Nithi,Subtropical Highland,10 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1400,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,North Eastern,Garissa,Arid,25 - 40,6 - 8,20 - 40,100 - 300,High,Low,Low,Diverse,150,Mixed flat and elevated,Rare,High,High,11 - 13,Moderate,Hot and dry
+Kenya,North Eastern,Wajir,Arid,25 - 40,6 - 8,20 - 40,100 - 300,High,Low,Low,Diverse,525,Flat with occasional elevation,Rare,High,High,11 - 13,Moderate,Hot and dry
+Kenya,North Eastern,Mandera,Arid,25 - 40,6 - 8,20 - 40,100 - 300,High,Low,Low,Diverse,506,Flat with occasional elevation,Rare,High,High,11 - 13,Moderate,Hot and dry
+Kenya,North Eastern,Marsabit,Semi-Arid,20 - 30,6 - 8,30 - 50,200 - 400,High,Low,Medium,Diverse,1356,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Sparse vegetation
+Kenya,Northern,Isiolo,Subtropical,18 - 30,5 - 7,30 - 60,300 - 700,High,Low,Medium,Diverse,1085,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Transition zone
+Kenya,Northern,Samburu,Semi-Arid,20 - 35,6 - 8,30 - 50,300 - 500,High,Low,Medium,Diverse,882,Varied terrain,Rare,High,Mild,11 - 13,Moderate,Wildlife habitat
+Kenya,Northern,Turkana,Arid,25 - 40,7 - 9,20 - 40,100 - 300,High,Low,Low,Diverse,506,Flat with occasional elevation,Rare,High,High,11 - 13,Moderate,Extreme aridity
+Kenya,Northern,Mandera,Arid,25 - 40,6 - 8,20 - 40,100 - 300,High,Low,Low,Diverse,506,Flat with occasional elevation,Rare,High,High,11 - 13,Moderate,Hot and dry
+Kenya,Central,Kiambu,Subtropical Highland,12 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1700,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Central,Nyeri,Subtropical Highland,10 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1650,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Central,Murang'a,Subtropical Highland,12 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1600,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Central,Kirinyaga,Subtropical Highland,12 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,1600,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,Southern,Machakos,Subtropical,18 - 28,5 - 7,50 - 70,600 - 800,Moderate,Low,Medium,Varied,1631,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Farming region
+Kenya,Southern,Kajiado,Semi-Arid,18 - 30,6 - 8,30 - 60,300 - 600,High,Low,Low,Varied,1708,Rolling terrain,Rare,High,Mild,11 - 13,Moderate,Pastoralism
+Kenya,Southern,Makueni,Subtropical,18 - 28,5 - 7,50 - 70,600 - 800,Moderate,Low,Medium,Varied,902,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Farming region
+Kenya,Southern,Taita Taveta,Tropical,20 - 30,5 - 7,50 - 70,600 - 1000,Moderate,Medium,Medium,Varied,300 - 1700,Varied terrain,Rare,Mild,Mild,11 - 13,Moderate,Tourism hotspot
+Kenya,North Western,Trans Nzoia,Subtropical Highland,12 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,2060,Hilly terrain,Rare,Mild,Mild,10 - 13,Moderate,Agricultural hub
+Kenya,North Western,Bungoma,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1300,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Agricultural hub
+Kenya,North Western,Trans Mara,Tropical,20 - 28,5 - 7,60 - 80,1000 - 1500,Moderate,High,High,Varied,1726,Rolling terrain,Rare,Mild,Mild,11 - 13,Moderate,Close to Masai Mara
+Kenya,North Western,Nandi,Subtropical Highland,10 - 25,5 - 7,50 - 70,800 - 1200,Variable,Medium,High,Varied,2175
