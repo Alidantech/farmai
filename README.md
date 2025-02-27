@@ -16,8 +16,6 @@ Farm-AI is a mobile application designed to assist farmers in optimizing their f
 The Farm-AI app can be accessed through the following platforms:
 
 - **Play Store**: Android users can download the app from the Play Store by searching for "Farm-AI" and installing it on their devices.
-- **App Store**: iOS users can find and download the app from the App Store by searching for "Farm-AI" and installing it on their iPhones or iPads.
-- **Microsoft Store**: Windows users can access the app by downloading it from the Microsoft Store. Search for "Farm-AI" and install it on your Windows devices.
 - **Website**: Visit our official website at [www.farmaiweb.app](https://farmaiweb.vercel.app) to find download links for various platforms.
 
 Please note that the app is not available directly through this repository. The repository contains the source code of the app, which can be used for development purposes or for contributing to the project.
@@ -27,7 +25,7 @@ Please note that the app is not available directly through this repository. The 
 The Farm-AI app is built using the following technologies:
 
 - **Flutter**: A cross-platform framework for developing mobile applications.
-- **Java**: Backend development using Java programming language.
+- **Node.js**: Backend development using Javascript programming language.
 - **Weather API**: Integration with a weather API to fetch weather data.
 - **Machine Learning**: Implementing machine learning algorithms for rain prediction and crop recommendations.
 
