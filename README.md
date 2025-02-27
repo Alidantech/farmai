@@ -1,4 +1,4 @@
-# Farm-AI 
+# FarmAI 
 
 Farm-AI is a mobile application designed to assist farmers in optimizing their farming practices. It utilizes weather data and machine learning algorithms to provide farmers with valuable insights for efficient farming.
 
@@ -18,7 +18,7 @@ The Farm-AI app can be accessed through the following platforms:
 - **Play Store**: Android users can download the app from the Play Store by searching for "Farm-AI" and installing it on their devices.
 - **App Store**: iOS users can find and download the app from the App Store by searching for "Farm-AI" and installing it on their iPhones or iPads.
 - **Microsoft Store**: Windows users can access the app by downloading it from the Microsoft Store. Search for "Farm-AI" and install it on your Windows devices.
-- **Website**: Visit our official website at [www.farm-ai.com](https://www.farm-ai.com) to find download links for various platforms.
+- **Website**: Visit our official website at [www.farmaiweb.app](https://farmaiweb.vercel.app) to find download links for various platforms.
 
 Please note that the app is not available directly through this repository. The repository contains the source code of the app, which can be used for development purposes or for contributing to the project.
 
